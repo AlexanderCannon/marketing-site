@@ -1,0 +1,61 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 20vmin;
+}
+
+.App-header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: black;
+  position: fixed;
+  width: 100vw;
+}
+
+.App-header span {
+  padding: 2vw;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+content {
+  top: 50vh;
+  display: block;
+  position: relative;
+}
+
+.introduction {
+  display: block;
+  font-size: 400%;
+  max-width: 60vw;
+  position: relative;
+  margin-left: 5vw;
+}
+
+.about {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  text-align: left;
+}
+
+.blurb {
+  max-width: 50vw;
+  padding: 5vw 0vw 5vw 5vw;
+}
+
+.skills {
+  list-style-type: none;
+}
+
+.skills ul {
+  list-style-type: none;
+}
