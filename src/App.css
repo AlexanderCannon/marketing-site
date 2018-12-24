@@ -11,10 +11,17 @@
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
   color: black;
   position: fixed;
   width: 100vw;
+}
+
+.App-header>span {
+  flex: 1;
+}
+
+.App-header>:nth-child(1) {
+  flex: 2;
 }
 
 .App-header span {
@@ -26,14 +33,25 @@
 }
 
 content {
-  top: 50vh;
+  top: 40vh;
   display: block;
   position: relative;
+  z-index: 10;
+}
+
+progress {
+  position: fixed;
+  transform: rotate(90deg);
+  left: -2vw;
+  top: 40vh;
+  z-index: 10;
+  filter: grayscale(100%);
+  width: 15vh;
 }
 
 .introduction {
   display: block;
-  font-size: 400%;
+  font-size: 300%;
   max-width: 60vw;
   position: relative;
   margin-left: 5vw;
@@ -58,4 +76,41 @@ content {
 
 .skills ul {
   list-style-type: none;
+}
+
+.scrollable {
+  margin: 10vw 10vw 10vw 15vw;
+  text-align: left;
+}
+
+.fixed-items {
+  z-index: -100;
+}
+
+.scrollableOne {
+  top: 100vh;
+  width: 45vh;
+  left: 0;
+  padding: 0;
+  margin: 0;
+  position: absolute;
+  filter: grayscale(100%);
+  transition-duration: 5ms;
+  transition-timing-function: ease-in-out;
+}
+
+.scrollableThree {
+  top: 105vh;
+  width: 45vh;
+  right: 0;
+  padding: 0;
+  margin: 0;
+  position: absolute;
+  filter: grayscale(100%);
+  transition-duration: 50ms;
+  transition-timing-function: ease-in-out;
+}
+
+video {
+  min-width: 25vw;
 }
