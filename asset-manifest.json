@@ -1,17 +1,16 @@
 {
-  "main.css": "/marketing-site/static/css/main.dcc95766.chunk.css",
-  "main.js": "/marketing-site/static/js/main.fdd4c481.chunk.js",
-  "main.js.map": "/marketing-site/static/js/main.fdd4c481.chunk.js.map",
+  "main.css": "/marketing-site/static/css/main.eaeb38ad.chunk.css",
+  "main.js": "/marketing-site/static/js/main.dcc71989.chunk.js",
+  "main.js.map": "/marketing-site/static/js/main.dcc71989.chunk.js.map",
   "static/js/1.36c4feed.chunk.js": "/marketing-site/static/js/1.36c4feed.chunk.js",
   "static/js/1.36c4feed.chunk.js.map": "/marketing-site/static/js/1.36c4feed.chunk.js.map",
   "runtime~main.js": "/marketing-site/static/js/runtime~main.3e62b1dd.js",
   "runtime~main.js.map": "/marketing-site/static/js/runtime~main.3e62b1dd.js.map",
+  "static/css/main.eaeb38ad.chunk.css.map": "/marketing-site/static/css/main.eaeb38ad.chunk.css.map",
   "static/media/logo.jpg": "/marketing-site/static/media/logo.364e8e8c.jpg",
   "static/media/sunset.mp4": "/marketing-site/static/media/sunset.3d35c5e6.mp4",
-  "static/media/office.jpg": "/marketing-site/static/media/office.e6a5b5e8.jpg",
   "static/media/keyboard.mp4": "/marketing-site/static/media/keyboard.53519867.mp4",
-  "static/css/main.dcc95766.chunk.css.map": "/marketing-site/static/css/main.dcc95766.chunk.css.map",
   "index.html": "/marketing-site/index.html",
-  "precache-manifest.de86fcc83819dd1c1ba29fdfc6ae2f61.js": "/marketing-site/precache-manifest.de86fcc83819dd1c1ba29fdfc6ae2f61.js",
+  "precache-manifest.1793bb9c4c2ba66792871e634227a910.js": "/marketing-site/precache-manifest.1793bb9c4c2ba66792871e634227a910.js",
   "service-worker.js": "/marketing-site/service-worker.js"
 }

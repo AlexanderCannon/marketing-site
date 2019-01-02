@@ -4,10 +4,6 @@ self.__precacheManifest = [
     "url": "/marketing-site/static/media/sunset.3d35c5e6.mp4"
   },
   {
-    "revision": "e6a5b5e8c3694ac35a6ff9e170c24650",
-    "url": "/marketing-site/static/media/office.e6a5b5e8.jpg"
-  },
-  {
     "revision": "364e8e8c5c0fb13931347429539cf9b1",
     "url": "/marketing-site/static/media/logo.364e8e8c.jpg"
   },
@@ -20,19 +16,19 @@ self.__precacheManifest = [
     "url": "/marketing-site/static/js/runtime~main.3e62b1dd.js"
   },
   {
-    "revision": "fdd4c481e75da479650e",
-    "url": "/marketing-site/static/js/main.fdd4c481.chunk.js"
+    "revision": "dcc7198922e21e04cddb",
+    "url": "/marketing-site/static/js/main.dcc71989.chunk.js"
   },
   {
     "revision": "36c4feed5dc3adcd538a",
     "url": "/marketing-site/static/js/1.36c4feed.chunk.js"
   },
   {
-    "revision": "fdd4c481e75da479650e",
-    "url": "/marketing-site/static/css/main.dcc95766.chunk.css"
+    "revision": "dcc7198922e21e04cddb",
+    "url": "/marketing-site/static/css/main.eaeb38ad.chunk.css"
   },
   {
-    "revision": "4192beaaab5191f9aaed1ba691466627",
+    "revision": "ff06019c92cbbe2dacba1cff5e838caf",
     "url": "/marketing-site/index.html"
   }
 ];
